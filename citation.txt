@@ -1,0 +1,7 @@
+@inproceedings{REPO375,
+    author = "Wang, Danyang and Weng, Jianhao and Zou, Yongpan and Wu, Kaishun",
+    booktitle = "Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers",
+    pages = "444--449",
+    title = "{EmoTracer: A Wearable Physiological and Psychological Monitoring System With Multi-modal Sensors}",
+    year = "2022"
+}
